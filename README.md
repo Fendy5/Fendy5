@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Fendy5
+- 👀 I’m interested in front end
+- 🌱 I’m currently learning nuxt + tailwind
+- 💞️ I’m looking to collaborate on ...
+- 📫 My home page is [fendy5.cn](https://fendy5.cn)
